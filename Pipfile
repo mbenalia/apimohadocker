@@ -16,6 +16,8 @@ scikit-learn = "*"
 pytest = "*"
 starlette = "*"
 httpx = "*"
+python-dotenv = "*"
+mysql-connector-python = "*"
 
 [dev-packages]
 
